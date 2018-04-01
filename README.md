@@ -1,4 +1,4 @@
 # knGradientBorderButton
 
-Have a look at my post here https://gist.github.com/nguyentruongky/89020a5f495420b260952f2ff19c4147
+Custom button with gradient border. See how to make it at http://kynguyen.space/2017/04/13/gradient-border-button.html
 
